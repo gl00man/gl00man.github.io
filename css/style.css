@@ -56,7 +56,7 @@ body
 .content
 {
 	color: rgb(55,80,117);
-	font-family: consolas;
+	font-family: Consolas, Rubik;
 	text-align: center;
 }
 
@@ -410,6 +410,11 @@ footer a
 
 @media (max-width: 406px)
 {
+	#hello h1
+	{
+		font-size: 16px;
+	}
+
 	#hello-description p
 	{
 		width: 320px;
@@ -439,7 +444,7 @@ footer a
 
 	#divider
 	{
-			padding: 170px 0 170px 0;
+		padding: 170px 0 170px 0;
 	}
 
 	footer
