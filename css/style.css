@@ -56,8 +56,7 @@ body
 .content
 {
 	color: rgb(55,80,117);
-	font-family: Consolas;
-	font-family: 'Rubik', sans-serif;
+	font-family: Consolas, Rubik, sans-serif;
 	text-align: center;
 }
 
