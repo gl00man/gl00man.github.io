@@ -1,3 +1,9 @@
+@font-face
+{
+	font-family: "consolas";
+	src: url("../fonts/consola.ttf");
+}
+
 *
 {
 	margin: 0;
