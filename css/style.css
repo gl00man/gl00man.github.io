@@ -23,7 +23,7 @@ body
 
 #container
 {
-	width: 100%;
+	/*width: 100%;*/
 	margin: 0 auto;
 	display: flex;
 	flex-direction: column;
@@ -356,6 +356,12 @@ footer a
 
 @media (max-width: 1623px)
 {
+
+	#hello h1
+	{
+		width: 250px;
+	}
+
 	#hello h1 pre
 	{
 		display: none;
